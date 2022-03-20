@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @vanthanh12102002
+- 👋 Hi, I’m @thanhhv02
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanthanh12102002&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthanh12102002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhv02&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhv02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vanthanh12102002/vanthanh12102002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
